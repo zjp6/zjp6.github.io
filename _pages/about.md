@@ -16,6 +16,7 @@ During my undergraduate studies, I have been conducting research under the super
 I will be joining **Oakland University** in **Fall 2026** become a Ph.D. student in Computer Science. It is my great honor to work under the supervision of [Prof. Jie Hu](https://jiehu-research.github.io/) and be a part of his research group.
 
 ###  Research Interests
+* Ising model
 * Machine Learning
 * MCMC Method
 
