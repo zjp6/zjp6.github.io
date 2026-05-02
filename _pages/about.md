@@ -14,8 +14,8 @@ I am **Jingpei Zhong**. I am currently a senior undergraduate student majoring i
 I will be joining **Oakland University** in **Fall 2026** become a Ph.D. student in Computer Science. It is my great honor to work under the supervision of [Prof. Jie Hu](https://jiehu-research.github.io/) and be a part of his research group.
 
 ###  Research Interests
-* *Machine Learning
-* *MCMC Method
+* Machine Learning
+* MCMC Method
 
 ###  Education
 * **B.S. in Physics** (Expected 2026)
