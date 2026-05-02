@@ -24,7 +24,7 @@ author:
   # Biographic information
   #avatar           : "profile.png"
   name             : "Jingpei Zhong/钟京霈"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Undergraduate student in Physics"
   location         : "Amherst, MA"
   employer         : "University of Massachusetts Amherst"
@@ -70,7 +70,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "__Frieren__"# Username
+  steam            : "__Frieren__" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
