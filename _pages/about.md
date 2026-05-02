@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my personal website!
+# Welcome !
 
 I am **Jingpei Zhong**. I am currently a senior undergraduate student majoring in Physics at the **University of Massachusetts Amherst (UMass Amherst)**.
 
